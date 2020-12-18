@@ -1,0 +1,1 @@
+{"script version": "1.0.0", "host name": "localhost", "group list": "local_group_list.txt", "source folder": "/home/john/Sync/Synology/Source/Rpi/display_reader/images", "dest folder": "/home/john/Sync/Synology/Source/Rpi/display_reader/images"}
