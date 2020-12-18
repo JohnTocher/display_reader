@@ -1,0 +1,13 @@
+Image notes for remote_640x480_fan jpeg images
+
+notes based on 640 x 480 pixel version
+
+Co-ordinates:
+(453,182) approx centre of Yellow (link) LED
+
+(283,138) Top fan bar
+(280,166) Middle fan bar
+(280,194) Lower fan bar
+
+Approx (20,50,110) for bars darkened
+Approx (0,120,250) for bars lit

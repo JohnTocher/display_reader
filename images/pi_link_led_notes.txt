@@ -1,0 +1,9 @@
+Image notes for pi_link_led jpeg images
+
+notes based on 640 x 480 pixel version
+
+Co-ordinates:
+(453,182) approx centre of Yellow (link) LED
+
+
+
